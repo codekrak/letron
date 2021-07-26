@@ -1,3 +1,16 @@
 .carousel {
     padding-top: 100px;
 }
+
+.header {
+    background-image: url(https://www.sciencenews.org/wp-content/uploads/2021/07/071321_cg_hurricanes_feat-1030x580.jpg);
+    padding-top: 100px;
+}
+
+.heading {
+    color: ivory;
+    font-family: 'Roboto', sans-serif;
+    padding-bottom: 150px;
+    padding-left: 650px;
+}
+
