@@ -1,0 +1,12 @@
+.myNav {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+.image {
+    background-image : url("Images/exteriorHouseImpact.jpg");
+    background-repeat : no-repeat;
+    background-size : cover;
+    height : 500px;
+    
+}
+
