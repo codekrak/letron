@@ -5,8 +5,14 @@
 .image {
     background-image : url("Images/exteriorHouseImpact.jpg");
     background-repeat : no-repeat;
-    background-size : cover;
-    height : 500px;
+    background-size : 1600px, 900px;
+    height : 900px;
+    padding-top: 300px;
     
+}
+
+.jumbotext {
+    padding-top: 150px;
+    padding-left: 300px;
 }
 

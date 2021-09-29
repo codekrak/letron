@@ -5,12 +5,32 @@
 .header {
     background-image: url(https://www.sciencenews.org/wp-content/uploads/2021/07/071321_cg_hurricanes_feat-1030x580.jpg);
     padding-top: 100px;
+    background-repeat: no-repeat;
+    background-size: 1600px, 1000px;
 }
 
 .heading {
     color: ivory;
     font-family: 'Roboto', sans-serif;
+    padding-top: 100px;
     padding-bottom: 150px;
     padding-left: 650px;
+    text-shadow: 3px 2px #1d40db;
 }
+
+.carousel {
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}
+
+.carousel-header {
+    font-family: 'Roboto', sans-serif;
+    color: rgb(10, 10, 117);
+    padding-left: 75px;
+    padding-right: 50px;
+    padding-top: 50px;
+}
+
 
